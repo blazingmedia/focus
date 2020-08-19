@@ -1,4 +1,4 @@
 # Assets
 
 ## Banner (16:5)
-![GitHub Logo](/assets/banner1.webp)
+![Banner 16:5](/assets/banner1.webp)
