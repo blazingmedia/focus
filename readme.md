@@ -1,5 +1,3 @@
-<div align="center"
-
 ![Banner 16:5](/assets/banner1.webp)
 
 # Focus by BlazingMedia
@@ -17,5 +15,3 @@ This Theme changes the overall color scheme of YouTube Music, removes some Spaci
 
 #### Download
 [userstyles.org](https://userstyles.org/styles/188196/focus-by-blazingmedia-for-youtube-music) | [Source](https://github.com/blazingmedia/focus/blob/master/ytmusic/style.css) | [Source (Mozilla Format)](https://github.com/blazingmedia/focus/blob/master/ytmusic/style.moz.css)
-
-</div>
